@@ -1,12 +1,12 @@
 /* 
- * File:   newfile.h
+ * File:   HEADER.h
  * Author: Robert
  *
  * Created on 28 November 2015, 15:19
  */
 
-#ifndef NEWFILE_H
-#define	NEWFILE_H
+#ifndef HEADER_H
+#define	HEADER_H
 
 #ifdef	__cplusplus
 extern "C" {
@@ -19,15 +19,15 @@ extern "C" {
 }
 #endif
 
-#endif	/* NEWFILE_H */
+#endif	/* HEADER_H */
 
 
 
 
 struct competitor{
-    char name[60];
-    char address[60];
-    char phone[60];
+    char name[79];
+    char address[79];
+    char phone[79];
     int ID;
     float cucumber;
     float carrot;
@@ -40,6 +40,7 @@ struct competitor{
 struct competitor root, current;
 struct competitor *holdpointer;
 int rootset = 0;
+int exitset = 0;
 char location[60];
 char date[60];
 struct competitor new(struct competitor *node);

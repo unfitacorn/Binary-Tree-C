@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux-x86
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux-x86
-CND_ARTIFACT_NAME_Debug=assignment
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/assignment
+CND_ARTIFACT_NAME_Debug=assignment_-_part_one
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux-x86/assignment_-_part_one
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Debug=assignment.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/assignment.tar
+CND_PACKAGE_NAME_Debug=assignment-partone.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux-x86/package/assignment-partone.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux-x86
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux-x86
-CND_ARTIFACT_NAME_Release=assignment
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/assignment
+CND_ARTIFACT_NAME_Release=assignment_-_part_one
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux-x86/assignment_-_part_one
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux-x86/package
-CND_PACKAGE_NAME_Release=assignment.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/assignment.tar
+CND_PACKAGE_NAME_Release=assignment-partone.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux-x86/package/assignment-partone.tar
 #
 # include compiler specific variables
 #
